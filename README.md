@@ -23,4 +23,4 @@ The repository contains the resolutions for thefifth homework of ADM, which deal
    A file .sh containing the solution of the Command Line  Question (Question 4). For this      purpose command line tools has been used on the same dataset. 
    
 3. `stuff` :
-   A folder that contains all the materials we worked on (e.g. individual notebooks, CSVs files etc.)
+   A folder that contains all the materials we worked on (e.g. individual notebooks and CSVs files)
