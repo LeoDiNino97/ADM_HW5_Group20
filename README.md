@@ -24,3 +24,5 @@ The repository contains the resolutions for thefifth homework of ADM, which deal
    
 3. `stuff` :
    A folder that contains all the materials we worked on (e.g. individual notebooks and CSV files)
+   
+https://nbviewer.org/github/LeoDiNino97/ADM_HW5_Group20/blob/main/main.ipynb
